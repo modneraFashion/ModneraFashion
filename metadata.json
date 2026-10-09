@@ -1,0 +1,6 @@
+{
+  "name": "Modnera Fashion — Luxury Women's Ethnic & Contemporary Couture",
+  "description": "Official flagship storefront of Modnera Fashion, founded by The Armaan in 2016. Discover artisanal Ethnic Wear, Dupatta Sets, Hand Work Embroidery Dresses, Kurti/Pant sets, Bottom Wear, and Frocks crafted in our Mumbai Bandra (400051) factory and Bhauwara Madhubani (847212) boutique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
